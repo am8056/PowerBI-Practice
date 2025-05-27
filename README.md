@@ -82,4 +82,4 @@ This dataset contains the following:
 This Power BI analysis offers valuable insights into user behavior, screen engagement, and mobile device usage. It supports the proposal for Mobile Zen, a Digital Wellbeing App aimed at reducing screen time, improving user focus, and promoting healthier digital habits through AI-driven suggestions, app usage tracking, and wellness alerts.
 
 ## Screenshot Link
-[View Project Screenshots](https://drive.google.com/drive/folders/1aR211qiqImhUpI6ODAWBYAuQBERCprRn?usp=sharing)
+[View Project Screenshots](https://drive.google.com/drive/folders/1DAH5P6-rUy5NuwZIfJqz8fPf_suY1of-?usp=sharing)
